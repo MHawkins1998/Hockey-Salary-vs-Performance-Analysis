@@ -35,3 +35,7 @@ This project analyzes the relationship between NHL player salary and offensive p
 - How to analyze relationships between financial and performance metrics
 - How to interpret correlation and identify outliers
 - How to communicate data findings through visualizations
+
+  ## Project Links
+[View Google Colab Notebook](CSCI4730.ipynb)
+[View Full Report](./HockeySalaryAnalysis.pdf)
